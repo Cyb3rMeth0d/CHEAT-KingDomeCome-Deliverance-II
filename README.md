@@ -72,8 +72,3 @@ Este proyecto usa la **Licencia Cyb3rMeth0d v1.0** (ver [LICENSE.md](LICENSE.md)
 ✨ **¡Sumérgete en una Bohemia del siglo XV con un giro cyberpunk!** ✨  
 
 --- 
-
-### **¿Cómo quedaría en GitHub?**  
-![Vista previa README](https://i.imgur.com/XYZ123.png) *(Ejemplo visual)*  
-
-¿Necesitas ajustar algo? (Créditos adicionales, requisitos técnicos, etc.).
